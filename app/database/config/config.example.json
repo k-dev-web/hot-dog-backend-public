@@ -1,0 +1,16 @@
+{
+  "local": {
+
+    "database": "",
+    "host": "",
+    "port": "",
+    "username": "",
+    "password": "",
+    "dialect": "",
+    "sslmode": ""
+
+
+  }
+
+
+}
